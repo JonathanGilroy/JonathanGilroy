@@ -4,3 +4,4 @@
 - 🌱 Learning C#, Spring and Java
 - ✈️ Aerospace engineer working as a software developer
 - 🏉🏎️🚴 Likes rugby, F1 and cycling to a cafe (or pub!)
+- 🔎 www.linkedin.com/in/jonathanrwgilroy
