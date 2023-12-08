@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JonathanGilroy!
-- 👀 I’m interested in full-stack development using javascript (node, express, react, MUI) and Docker
+- 👀 I would like to try my hand at making games!
 - 🐍 Python was my first language
-- 🌱 Learning C#, Spring and Java
-- ✈️ Aerospace engineer working as a software developer
+- 🌱 Training for the AWS SOlution Architect certification
+- ✈️ Aerospace engineer working as a solution designer
 - 🏉🏎️🚴 Likes rugby, F1 and cycling to a cafe (or pub!)
 - 🔎 www.linkedin.com/in/jonathanrwgilroy
